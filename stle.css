@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5533ff;
+}
+.img {
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: -1;
+}
+.sbs {
+  border-radius: 22px;
+
+  font-size: 44px;
+  border-radius: 22.23px;
+  gap: 11.12px;
+  border-width: 2.78px;
+  font-weight: 700px;
+  padding: 22px 44px;
+  cursor: pointer;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  font-size: 96px;
+  font-weight: 700px;
+  color: white;
+}
+.w {
+  width: 573px;
+}
